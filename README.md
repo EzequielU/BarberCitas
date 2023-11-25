@@ -7,7 +7,7 @@ para correrlo en local
 ```bash
 
 git clone https://github.com/ufedev/Barber.git
-cd Barber
+cd BarberCitas
 npm install
 npm run dev
 
